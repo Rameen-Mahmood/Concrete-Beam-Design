@@ -16,8 +16,7 @@ It is difficult for IBM to entertain requests of photo removal by each individua
 This scandal was a reminder on how big tech giants have monopolized the industry to an extent that they are able to photo-scrape from public sites for their own personal technologies. This action immediately implies that if one is an active social media user, their photos can be extracted, used and manipulated in any way such companies may deem fit. 
 
 ## Article 2
-The MIT Technology provides an opposing perspective towards The Verge’s take on IBM’s facial recognition technology:  [IBM’s photo-scraping scandal shows what a weird bubble AI researchers live in]
-](https://www.technologyreview.com/2019/03/15/136593/ibms-photo-scraping-scandal-shows-what-a-weird-bubble-ai-researchers-live-in/) 
+The MIT Technology provides an opposing perspective towards The Verge’s take on IBM’s facial recognition technology:  [IBM’s photo-scraping scandal shows what a weird bubble AI researchers live in](https://www.technologyreview.com/2019/03/15/136593/ibms-photo-scraping-scandal-shows-what-a-weird-bubble-ai-researchers-live-in/) 
 
 From an industrial standpoint, IBM followed common procedures in scraping data from the internet and feeding it into their machine learning algorithm. As mentioned by the article, instagram photos have been used as a source for image data as they are categorized by hashtags. In reality, scraping data from public sites is an essential part of Data Science, and is used in abundance in almost all tech industries. 
 
