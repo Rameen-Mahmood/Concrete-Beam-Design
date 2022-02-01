@@ -8,7 +8,7 @@ This software is a civil engineering project which designs a rectangular reinfor
 In this document, I will be analyzing both sides of IBM's controversial facial recognition technology — the utilization of the users' photos without their consent, and their use to reduce bias in facial technology. I highlight two articles which pose opposing arguments in respect to this issue.
 
 ### Article 1
-The Verge represents the unlawfulness of IBM’s facial recognition technology: [IBM didn’t inform people when it used their Flickr photos for facial recognition training](https://www.theverge.com/2019/3/12/18262646/ibm-didnt-inform-people-when-it-used-their-flickr-photos-for-facial-recognition-training),
+The Verge represents the unlawfulness of IBM’s facial recognition technology: [IBM didn’t inform people when it used their Flickr photos for facial recognition training](https://www.theverge.com/2019/3/12/18262646/ibm-didnt-inform-people-when-it-used-their-flickr-photos-for-facial-recognition-training)
 
 Real-time data sets are an essential part of Artificial Intelligence based algorithms in terms of creating accurate conclusions via machine learning. In this case, for IBM’s facial recognition technology, the data set used nearly a million photos taken from individual user’s Flickr accounts without their consent. 
 By such photo-scraping activities, the users’ photos would be then stored in the IBM database, which could then be used in ways users are not aware of. The technology employed in this scenario could potentially be used as a surveillance methodology which would directly target individuals such as those whose photos are in IBM’s database.   
