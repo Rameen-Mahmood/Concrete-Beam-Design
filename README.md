@@ -3,8 +3,7 @@ This software is a civil engineering project which designs a rectangular reinfor
  -->
 # Contemporary Issues In Data
 
-## ![IBM’s AI Facial Recognition — a blatant theft of your photos or an attempt to counter AI prejudice in facial recognition technology?]
-[Photo-Scraping]
+## ![IBM’s AI Facial Recognition — a blatant theft of your photos or an attempt to counter AI prejudice in facial recognition technology?][Photo-Scraping]
 
 In this document, I will be analyzing both sides of IBM's controversial facial recognition technology — the utilization of the users' photos without their consent, and their use to reduce bias in facial technology. I highlight two articles which pose opposing arguments in respect to this issue.
 
