@@ -3,7 +3,7 @@ This software is a civil engineering project which designs a rectangular reinfor
  -->
 # Contemporary Issues In Data
 
-## ![IBM’s AI Facial Recognition — a blatant theft of your photos or an attempt to counter AI prejudice in facial recognition technology?][Photo-Scraping]
+## ![IBM’s AI Facial Recognition — a blatant theft of your photos or an attempt to counter AI prejudice in facial recognition technology?][Photo Scraping]
 
 In this document, I will be analyzing both sides of IBM's controversial facial recognition technology — the utilization of the users' photos without their consent, and their use to reduce bias in facial technology. I highlight two articles which pose opposing arguments in respect to this issue.
 
@@ -22,4 +22,4 @@ From an industrial standpoint, IBM followed common procedures in scraping data f
  Furthermore, the goal behind using the Flickr photos as the data set for the facial recognition technology was well suited. Lack of diversity in data is immediately reflected in Artificial Intelligence and the decisions that it makes. By photo-scraping publicly available millions of photos of a vast majority of users on this site, IBM was ensuring that they did not isolate any race or ethnicity while creating the facial recognition technology. 
  The prejudice integrated into the technology can be attributed to the lack of diversity in data. The artificial intelligence in this technology has aligned itself with the societal bias associated with race, which has led to dire consequences in regards to acting as an unreliable tool for law enforcement agencies. 
  
- [Photo-Sraping]: https://images.app.goo.gl/87Z4raBk3jGYXf1j6
+ [Photo Sraping]: https://images.app.goo.gl/87Z4raBk3jGYXf1j6
